@@ -1,0 +1,1710 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 2,
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/products",
+          "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+          "uuid": "034c99d7-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products",
+          "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+          "uuid": "034c99d7-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/cookies",
+          "urlHash": "2b73bad53d2d7743b57fc4c1e200440ef0feb05b",
+          "uuid": "2b73bad5-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/cookies",
+          "urlHash": "2b73bad53d2d7743b57fc4c1e200440ef0feb05b",
+          "uuid": "2b73bad5-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/termsofuse",
+          "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+          "uuid": "72e2e5c9-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/termsofuse",
+          "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+          "uuid": "72e2e5c9-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/privacy",
+          "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+          "uuid": "85be146a-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/privacy",
+          "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+          "uuid": "85be146a-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/portfolio",
+          "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+          "uuid": "cdb5cc64-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/portfolio",
+          "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+          "uuid": "cdb5cc64-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "height": 560
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/products",
+          "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+          "uuid": "034c99d7-05-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-14-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-11-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-07-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/cookies",
+          "urlHash": "2b73bad53d2d7743b57fc4c1e200440ef0feb05b",
+          "uuid": "2b73bad5-03-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-12-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-16-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-13-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/termsofuse",
+          "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+          "uuid": "72e2e5c9-05-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/privacy",
+          "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+          "uuid": "85be146a-05-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-08-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-11-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-13-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-12-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/portfolio",
+          "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+          "uuid": "cdb5cc64-05-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-16-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-11-04769b096746f3cd23b25c1671d42a6eb4407e3f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-11-04769b096746f3cd23b25c1671d42a6eb4407e3f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-11-6f44f41120d447514f81c73e22037ad6fc41805c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[6]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-14-83ec0b107f11c25a385f59b549cfdb4b71925ac8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[7]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-11-6f44f41120d447514f81c73e22037ad6fc41805c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[6]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-14-83ec0b107f11c25a385f59b549cfdb4b71925ac8",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[7]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header (header3)",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/products",
+          "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+          "uuid": "034c99d7-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/cookies",
+          "urlHash": "2b73bad53d2d7743b57fc4c1e200440ef0feb05b",
+          "uuid": "2b73bad5-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/termsofuse",
+          "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+          "uuid": "72e2e5c9-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/privacy",
+          "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+          "uuid": "85be146a-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/portfolio",
+          "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+          "uuid": "cdb5cc64-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 4,
+      "source": "Hero",
+      "target": "Hero (hero4)",
+      "key": "hero4",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-05-62a417b5848281f1c2b49a19510a810dcf152247",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-06-94c8b640304ae49fd4ec0b57252dc82b295ad246",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-08-fcd1e96f4abc549c7c7c641c3280ba09070bc587",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-09-3819b93aa681d82f57ceb69d01d7aded2262e3cb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-05-62a417b5848281f1c2b49a19510a810dcf152247",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-06-94c8b640304ae49fd4ec0b57252dc82b295ad246",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-08-fcd1e96f4abc549c7c7c641c3280ba09070bc587",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[5]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-09-3819b93aa681d82f57ceb69d01d7aded2262e3cb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/products",
+          "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+          "uuid": "034c99d7-05-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-14-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-11-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-07-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/cookies",
+          "urlHash": "2b73bad53d2d7743b57fc4c1e200440ef0feb05b",
+          "uuid": "2b73bad5-03-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-12-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-16-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-13-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/termsofuse",
+          "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+          "uuid": "72e2e5c9-05-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/privacy",
+          "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+          "uuid": "85be146a-05-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-08-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-11-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-13-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-12-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/portfolio",
+          "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+          "uuid": "cdb5cc64-05-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-16-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/termsofuse",
+          "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+          "uuid": "72e2e5c9-04-ead021f28ce22edc2b988dec303cee2b1bd2bdec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/privacy",
+          "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+          "uuid": "85be146a-04-349c931ebb6e0912d177089cd29ea6c93f4c5702",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 7,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages7)",
+      "key": "cardsNoImages7",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-04-b24419c60c4a20249d9dd15f19612147f4d259cc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-07-4ce18968c737e2febc735f46ae235db8d43237d9",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-04-b24419c60c4a20249d9dd15f19612147f4d259cc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-07-4ce18968c737e2febc735f46ae235db8d43237d9",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/services",
+          "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+          "uuid": "0ed5053d-03-93e6f47d49274b8085d8d425cc0489e178a3ac15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+          "uuid": "a2bc0384-03-93e6f47d49274b8085d8d425cc0489e178a3ac15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 11,
+      "source": "Hero",
+      "target": "Hero (hero11)",
+      "key": "hero11",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-03-349c931ebb6e0912d177089cd29ea6c93f4c5702",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-03-349c931ebb6e0912d177089cd29ea6c93f4c5702",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-05-e5a7ea7ece4cef0b742606aa5aabf254515322cb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-05-e5a7ea7ece4cef0b742606aa5aabf254515322cb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 13,
+      "source": "Cards",
+      "target": "Cards (cards13)",
+      "key": "cards13",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-06-6c20c188b3c19dfee1912b178d1c6a7039a44d57",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-06-6c20c188b3c19dfee1912b178d1c6a7039a44d57",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 14,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered14)",
+      "key": "tableStripedBordered14",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/cookies",
+          "urlHash": "2b73bad53d2d7743b57fc4c1e200440ef0feb05b",
+          "uuid": "2b73bad5-02-8508d37050d6ad651700fd3359628a43350d9ce0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cards15)",
+      "key": "cards15",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-03-93e6f47d49274b8085d8d425cc0489e178a3ac15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-09-831bbc2335e1c92befc158d923c269ceb09b9c90",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-09-831bbc2335e1c92befc158d923c269ceb09b9c90",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "source": "Columns",
+      "target": "Columns (columns17)",
+      "key": "columns17",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+          "uuid": "4bca54a0-09-d9c29ec204d91025da336c770fc269924ec3d516",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[5]/ul[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+          "uuid": "e331fa4f-09-d9c29ec204d91025da336c770fc269924ec3d516",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[5]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-10-49eeac2bbb10891482aa72997c4535338d01e9aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-10-49eeac2bbb10891482aa72997c4535338d01e9aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns",
+      "target": "Columns (columns19)",
+      "key": "columns19",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-05-da1a86cabbdef636d6c40a15c6d732e3b8ffdae2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 20,
+      "source": "Columns",
+      "target": "Columns (columns20)",
+      "key": "columns20",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-06-d85b4fb2a25bc21c42830b02cff1253c28195545",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 21,
+      "source": "Cards",
+      "target": "Cards (cards21)",
+      "key": "cards21",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/products",
+          "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+          "uuid": "034c99d7-03-d9ef744d0025c913500743f7078681c3efbf9728",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-07-2214b6db29dc968dbdcfe0b049e52d86df3ba5e7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 23,
+      "source": "Cards",
+      "target": "Cards (cards23)",
+      "key": "cards23",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-03-da1a86cabbdef636d6c40a15c6d732e3b8ffdae2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-03-da1a86cabbdef636d6c40a15c6d732e3b8ffdae2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 24,
+      "source": "Cards",
+      "target": "Cards (cards24)",
+      "key": "cards24",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-04-a2cabc777cbe192ed7dfc9152f2d2608bfb5040a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-04-a2cabc777cbe192ed7dfc9152f2d2608bfb5040a",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 25,
+      "source": "Columns",
+      "target": "Columns (columns25)",
+      "key": "columns25",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-08-04769b096746f3cd23b25c1671d42a6eb4407e3f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-08-04769b096746f3cd23b25c1671d42a6eb4407e3f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
+      "source": "Columns",
+      "target": "Columns (columns26)",
+      "key": "columns26",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 27,
+      "source": "Cards",
+      "target": "Cards (cards27)",
+      "key": "cards27",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-04-356206e6ca4fdb60314f4d4f994d4bef39e05c5b",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 28,
+      "source": "Cards",
+      "target": "Cards (cards28)",
+      "key": "cards28",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-12-6c2848b7d830e62e8f3e115342ea2d5377ea89c5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "source": "Columns",
+      "target": "Columns (columns29)",
+      "key": "columns29",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-09-1e2ee8c5f574441c68a95fd3f4417f5f2ac63ed0",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/section[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 30,
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 31,
+      "source": "Cards",
+      "target": "Cards (cards31)",
+      "key": "cards31",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-06-da1a86cabbdef636d6c40a15c6d732e3b8ffdae2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 32,
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/portfolio",
+          "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+          "uuid": "cdb5cc64-03-38ecaf6a5302a4f82a44fb7716b6d9abe5b3c0d7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 33,
+      "source": "Hero",
+      "target": "Hero (hero33)",
+      "key": "hero33",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+          "uuid": "8d5cc192-03-f340e94141f85f26fc370a5c2454e55480bd1776",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 34,
+      "source": "Carousel",
+      "target": "Carousel (carousel34)",
+      "key": "carousel34",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/join",
+          "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+          "uuid": "40ae4945-07-2214b6db29dc968dbdcfe0b049e52d86df3ba5e7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.ensemble.com/join/",
+          "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+          "uuid": "cc7b9291-07-2214b6db29dc968dbdcfe0b049e52d86df3ba5e7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 35,
+      "source": "Cards",
+      "target": "Cards (cards35)",
+      "key": "cards35",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/company/",
+          "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+          "uuid": "67d73bd9-07-6c2848b7d830e62e8f3e115342ea2d5377ea89c5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+          "uuid": "bdd4d684-07-6c2848b7d830e62e8f3e115342ea2d5377ea89c5",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 36,
+      "source": "Columns",
+      "target": "Columns (columns36)",
+      "key": "columns36",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/",
+          "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+          "uuid": "088fdfea-07-2214b6db29dc968dbdcfe0b049e52d86df3ba5e7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 37,
+      "source": "Hero",
+      "target": "Hero (hero37)",
+      "key": "hero37",
+      "instances": [
+        {
+          "url": "https://www.ensemble.com/contact",
+          "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+          "uuid": "12bcaa77-06-2214b6db29dc968dbdcfe0b049e52d86df3ba5e7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[4]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.ensemble.com/products",
+      "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+      "uuid": "034c99d7-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/products",
+      "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+      "uuid": "034c99d7-02-67b27a177a1a159050d32720fd19bf31acf29567",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products",
+      "urlHash": "034c99d7c9299bd3b17e389106f079755e0d6374",
+      "uuid": "034c99d7-04-38ecaf6a5302a4f82a44fb7716b6d9abe5b3c0d7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.ensemble.com/",
+      "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+      "uuid": "088fdfea-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/",
+      "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+      "uuid": "088fdfea-03-93e6f47d49274b8085d8d425cc0489e178a3ac15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/",
+      "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+      "uuid": "088fdfea-05-f9a51c23b80a52f291b2f71c21d7cff303d2b26f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.ensemble.com/",
+      "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+      "uuid": "088fdfea-08-7b6f1074ee613532d32334d2cbcbd9a851fdcccb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/",
+      "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+      "uuid": "088fdfea-10-334ca5a25651118190e4ea7c8950ef9cd1fd4c43",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/section[2]/div[2]"
+    },
+    {
+      "url": "https://www.ensemble.com/",
+      "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+      "uuid": "088fdfea-11-95b3e0351e96a1184d8d0f7e9ad265e3afa4dbab",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.ensemble.com/",
+      "urlHash": "088fdfea256a6485803af44e7deb3043b4fb7ea1",
+      "uuid": "088fdfea-13-04769b096746f3cd23b25c1671d42a6eb4407e3f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://www.ensemble.com/services",
+      "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+      "uuid": "0ed5053d-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/services",
+      "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+      "uuid": "0ed5053d-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/services",
+      "urlHash": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6",
+      "uuid": "0ed5053d-10-da1a86cabbdef636d6c40a15c6d732e3b8ffdae2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.ensemble.com/contact",
+      "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+      "uuid": "12bcaa77-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/contact",
+      "urlHash": "12bcaa772b22969453f2b707e2fb9e40dee63272",
+      "uuid": "12bcaa77-04-ead021f28ce22edc2b988dec303cee2b1bd2bdec",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.ensemble.com/cookies",
+      "urlHash": "2b73bad53d2d7743b57fc4c1e200440ef0feb05b",
+      "uuid": "2b73bad5-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/join",
+      "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+      "uuid": "40ae4945-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/join",
+      "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+      "uuid": "40ae4945-03-26f80feb5637876292cd95ee0d9b49982e091334",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/join",
+      "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+      "uuid": "40ae4945-05-6eb3559497f584a6a038b189e43f3d4229ab00b3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[2]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/join",
+      "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+      "uuid": "40ae4945-08-a48c7c2a268e600de69a9eec94750ec50f7c0c3d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[2]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/join",
+      "urlHash": "40ae4945c9281f177a2b37f5471a2cc33c0196f5",
+      "uuid": "40ae4945-10-8113eaedc339938c181736069a24561245f2c5ff",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[6]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-02-998db8dd200617892aff56259e8002bd47b7cc85",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-04-481506637fdf439a20d4d7ccb99f646bb6f4b968",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-05-80b4f29fc9f05b1193681d96e71635f750ff069d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-06-c4177c934e82975e5118e847f45f3fe755d657aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[3]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-07-96a17199dfc9c3e21210e043b3e18d0262183fa2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[4]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-08-0b9b6a045bd1d55dd35217a37b8d175e36c4d1ba",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[5]/h3[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-10-062dfbd6f97c8ce5881d7532d6dd5a1ef95b4a89",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[6]/h3[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-12-ec052f4b41dc3c364c530503cfc99a2a18d80ef1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[7]/h3[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-13-839ebd0780ed39eaed6957c00943a6872a18154a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[7]/p[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/sales-journal",
+      "urlHash": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5",
+      "uuid": "4bca54a0-15-4bad6177eb819b41d8c70d5ad8d2d55666132ac4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.ensemble.com/company/",
+      "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+      "uuid": "67d73bd9-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/company/",
+      "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+      "uuid": "67d73bd9-04-2214b6db29dc968dbdcfe0b049e52d86df3ba5e7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[4]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.ensemble.com/company/",
+      "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+      "uuid": "67d73bd9-06-708501126744818474a13fd1242a11d3d4e2bbc8",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/company/",
+      "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+      "uuid": "67d73bd9-09-5062d50c4298b6e19ae1427393d596f45333f9d4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/company/",
+      "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+      "uuid": "67d73bd9-11-fe35f03a3eec2fee423ca2535c3abc63a322516f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.ensemble.com/company/",
+      "urlHash": "67d73bd9a117f8fbd9cdaa41674536e20621c440",
+      "uuid": "67d73bd9-12-83705195a3eb9ecb5f5ee3bd7b120dfae56a36bd",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://www.ensemble.com/termsofuse",
+      "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+      "uuid": "72e2e5c9-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/termsofuse",
+      "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+      "uuid": "72e2e5c9-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.ensemble.com/termsofuse",
+      "urlHash": "72e2e5c952d7dfffc7970210c4d73ef08d812edc",
+      "uuid": "72e2e5c9-03-93e6f47d49274b8085d8d425cc0489e178a3ac15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/privacy",
+      "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+      "uuid": "85be146a-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/privacy",
+      "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+      "uuid": "85be146a-02-ffdc0a0ab02e2bac9adf62ae0b8afd989d5cabf6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/header[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.ensemble.com/privacy",
+      "urlHash": "85be146aa366dde9b89c1d31138d8da064bd6d4e",
+      "uuid": "85be146a-03-998db8dd200617892aff56259e8002bd47b7cc85",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/casestudy/adobe",
+      "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+      "uuid": "8d5cc192-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/casestudy/adobe",
+      "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+      "uuid": "8d5cc192-04-2c701c74abdfeaa6d73d387dd554370f154f2481",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/casestudy/adobe",
+      "urlHash": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7",
+      "uuid": "8d5cc192-05-ce3b4e2667828addc2b45a1f50b13df4c8e62fd7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/services/",
+      "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+      "uuid": "a2bc0384-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/services/",
+      "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+      "uuid": "a2bc0384-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/services/",
+      "urlHash": "a2bc038474e56a29619693d672a9279e8d32eac6",
+      "uuid": "a2bc0384-10-da1a86cabbdef636d6c40a15c6d732e3b8ffdae2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.ensemble.com/company",
+      "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+      "uuid": "bdd4d684-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/company",
+      "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+      "uuid": "bdd4d684-04-2214b6db29dc968dbdcfe0b049e52d86df3ba5e7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[4]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.ensemble.com/company",
+      "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+      "uuid": "bdd4d684-06-708501126744818474a13fd1242a11d3d4e2bbc8",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/company",
+      "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+      "uuid": "bdd4d684-09-5062d50c4298b6e19ae1427393d596f45333f9d4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/company",
+      "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+      "uuid": "bdd4d684-11-fe35f03a3eec2fee423ca2535c3abc63a322516f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.ensemble.com/company",
+      "urlHash": "bdd4d684a53480b4a2b10bf09312afcef55d33f0",
+      "uuid": "bdd4d684-12-83705195a3eb9ecb5f5ee3bd7b120dfae56a36bd",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://www.ensemble.com/join/",
+      "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+      "uuid": "cc7b9291-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/join/",
+      "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+      "uuid": "cc7b9291-03-26f80feb5637876292cd95ee0d9b49982e091334",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[2]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/join/",
+      "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+      "uuid": "cc7b9291-05-6eb3559497f584a6a038b189e43f3d4229ab00b3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[3]/div[1]/div[2]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/join/",
+      "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+      "uuid": "cc7b9291-08-a48c7c2a268e600de69a9eec94750ec50f7c0c3d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[2]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/join/",
+      "urlHash": "cc7b9291c2b3c06f7250301123a50259b2490d93",
+      "uuid": "cc7b9291-10-8113eaedc339938c181736069a24561245f2c5ff",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[6]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.ensemble.com/portfolio",
+      "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+      "uuid": "cdb5cc64-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/portfolio",
+      "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+      "uuid": "cdb5cc64-02-bdb30bdfa208d85cdb1c472980b127910fe1b064",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/portfolio",
+      "urlHash": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9",
+      "uuid": "cdb5cc64-04-f340e94141f85f26fc370a5c2454e55480bd1776",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-02-998db8dd200617892aff56259e8002bd47b7cc85",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-04-481506637fdf439a20d4d7ccb99f646bb6f4b968",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-05-80b4f29fc9f05b1193681d96e71635f750ff069d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-06-c4177c934e82975e5118e847f45f3fe755d657aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[3]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-07-96a17199dfc9c3e21210e043b3e18d0262183fa2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[4]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-08-0b9b6a045bd1d55dd35217a37b8d175e36c4d1ba",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[5]/h3[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-10-062dfbd6f97c8ce5881d7532d6dd5a1ef95b4a89",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[6]/h3[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-12-ec052f4b41dc3c364c530503cfc99a2a18d80ef1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[7]/h3[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-13-839ebd0780ed39eaed6957c00943a6872a18154a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[3]/div[7]/p[1]"
+    },
+    {
+      "url": "https://www.ensemble.com/products/bprime",
+      "urlHash": "e331fa4f018ee7a313ba8427319cc6a8795e22c7",
+      "uuid": "e331fa4f-15-4bad6177eb819b41d8c70d5ad8d2d55666132ac4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[4]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(51, 51, 51) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 16
+    },
+    {
+      "name": "section-2",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(rgb(239, 243, 244), rgba(239, 243, 244, 0)) repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(239, 243, 244) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 9
+    }
+  ]
+}
