@@ -699,7 +699,8 @@
           "uuid": "a2bc0384-07-4ce18968c737e2febc735f46ae235db8d43237d9",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[4]"
         }
-      ]
+      ],
+      "key": "unknown8"
     },
     {
       "name": "Columns",
@@ -786,7 +787,8 @@
           "uuid": "bdd4d684-05-e5a7ea7ece4cef0b742606aa5aabf254515322cb",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[5]"
         }
-      ]
+      ],
+      "key": "unknown12"
     },
     {
       "name": "Cards",
@@ -1097,7 +1099,8 @@
           "uuid": "088fdfea-02-5bd1df2a30eb5bc90f0e13f970e04869fc6b9bac",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]"
         }
-      ]
+      ],
+      "key": "unknown30"
     },
     {
       "name": "Cards",
@@ -1125,7 +1128,8 @@
           "uuid": "cdb5cc64-03-38ecaf6a5302a4f82a44fb7716b6d9abe5b3c0d7",
           "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
         }
-      ]
+      ],
+      "key": "unknown32"
     },
     {
       "name": "Hero",
