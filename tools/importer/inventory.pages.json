@@ -1,0 +1,134 @@
+{
+  "templates": [
+    {
+      "name": "'Multi-section webpage'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/termsofuse",
+          "uuid": "72e2e5c952d7dfffc7970210c4d73ef08d812edc"
+        },
+        {
+          "url": "https://www.ensemble.com/cookies",
+          "uuid": "2b73bad53d2d7743b57fc4c1e200440ef0feb05b"
+        }
+      ]
+    },
+    {
+      "name": "'Product listing page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/products/sales-journal",
+          "uuid": "4bca54a05a4ca1f97fcbdabdb7e446b1928e11a5"
+        },
+        {
+          "url": "https://www.ensemble.com/products/bprime",
+          "uuid": "e331fa4f018ee7a313ba8427319cc6a8795e22c7"
+        }
+      ]
+    },
+    {
+      "name": "\"Listing Page\"",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/services",
+          "uuid": "0ed5053d2f9ab48dd1d20cbd1d3a4d8fef1689d6"
+        },
+        {
+          "url": "https://www.ensemble.com/services/",
+          "uuid": "a2bc038474e56a29619693d672a9279e8d32eac6"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Page",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/join/",
+          "uuid": "cc7b9291c2b3c06f7250301123a50259b2490d93"
+        },
+        {
+          "url": "https://www.ensemble.com/join",
+          "uuid": "40ae4945c9281f177a2b37f5471a2cc33c0196f5"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/privacy",
+          "uuid": "85be146aa366dde9b89c1d31138d8da064bd6d4e"
+        }
+      ]
+    },
+    {
+      "name": "Blog Page Template",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/casestudy/adobe",
+          "uuid": "8d5cc19295ef2e1b6d7a0741d76d0b52596cd7c7"
+        }
+      ]
+    },
+    {
+      "name": "Grid-based layout template",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/company/",
+          "uuid": "67d73bd9a117f8fbd9cdaa41674536e20621c440"
+        },
+        {
+          "url": "https://www.ensemble.com/company",
+          "uuid": "bdd4d684a53480b4a2b10bf09312afcef55d33f0"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/",
+          "uuid": "088fdfea256a6485803af44e7deb3043b4fb7ea1"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Page",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/products",
+          "uuid": "034c99d7c9299bd3b17e389106f079755e0d6374"
+        }
+      ]
+    },
+    {
+      "name": "Gallery page",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/portfolio",
+          "uuid": "cdb5cc643bd11450dc675a7311a6ca0eff7769f9"
+        }
+      ]
+    },
+    {
+      "name": "Photo Gallery",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.ensemble.com/contact",
+          "uuid": "12bcaa772b22969453f2b707e2fb9e40dee63272"
+        }
+      ]
+    }
+  ]
+}
